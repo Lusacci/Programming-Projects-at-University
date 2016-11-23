@@ -1,0 +1,8 @@
+﻿  hamming.c
+c:\users\james\documents\visual studio 2015\projects\hammingcodecalculator\hammingcodecalculator\hamming.c(45): warning C4244: 'return': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\hammingcodecalculator\hammingcodecalculator\hamming.c(53): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\hammingcodecalculator\hammingcodecalculator\hamming.c(57): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\hammingcodecalculator\hammingcodecalculator\hamming.c(74): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\hammingcodecalculator\hammingcodecalculator\hamming.c(89): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\james\documents\visual studio 2015\projects\hammingcodecalculator\hammingcodecalculator\hamming.c(103): warning C4047: 'initializing': 'unsigned int *' differs in levels of indirection from 'unsigned int'
+  HammingCodeCalculator.vcxproj -> C:\Users\James\documents\visual studio 2015\Projects\HammingCodeCalculator\Debug\HammingCodeCalculator.exe
