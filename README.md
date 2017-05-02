@@ -9,3 +9,6 @@ C Projects involving tokenizations, hamming code calculators, various console ap
 
 Android Studio Projects
 Assembly Language Projects (ARM Sim)
+
+*** 
+Please keep in mind this repository is not up to date, behind by 2 years worth of work. 
